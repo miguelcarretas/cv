@@ -1,5 +1,3 @@
-Claro, aquí tienes la lista de experiencias sin los emojis:
-
 # 👨‍💻 Miguel Carretas Perulero
 *Administrador de Sistemas y DevOps*
 
