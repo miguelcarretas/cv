@@ -7,11 +7,33 @@ Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre
 ## 💼 Experiencia
 ### Administrador de Sistemas / DevOps
 **Boycor** - Marzo 2023 - Actualidad *(7 meses)*
-- 🌐 Trabajo remoto
+- 📍 Trabajo remoto
+- Administracion de entorno VMware.
+- Administración de backups con Veeam y Azure.
+- Automatización de tareas con Ansible.
+- Monitorización de infraestructura con Zabbix + Grafana.
+- Creacion de apps en Azure (SSO basado en SAML y Oauth).
+- Creacion de grupos y usuarios en Azure AD.
+- Control de versiones con Git y GitLab.
+- Securizacion de servidores Linux y Windows.
+- Administracion de infraestructura como codigo con Terraform.
 
 ### Administrador de Sistemas / DevOps
 **Tirant lo Blanch** - Julio 2022 - Febrero 2023 *(8 meses)*
-- 🌐 Trabajo remoto
+- 📍 Trabajo remoto
+- 👨‍💻 Administración de entorno VMWare.
+- Automatizacion de configuraciones con Ansible, Jenkis y Terraform.
+- Instalación, configuración y monitorización de infraestructura de la empresa (Zabbix, Munin, Grafana, Telegraf).
+- Gestion de servidores de correo, servidores web y balanceos de carga y alta disponibilidad (HAProxy y Keepalive)
+- Soporte de incidencias a empleados internos de la empresa.
+- Gestion de base de datos MySQL, MariaDB y MongoDB.
+- Gestion de backups con Veeam, en local y buckets S3 de AWS.
+- Administración de cluster Openshift de AWS y local.
+- Administracion de redes y seguridad de la infraestructura.
+- Administracion de Cloudflare mediante Terraform.
+- Control de versiones con Git.
+- Administracion de sistemas operativos CentOS / RHEL y Windows Server.
+
 
 ### Ingeniero de Sistemas IT
 **GMV** - Enero 2019 - Julio 2022 *(3 años 7 meses)*
