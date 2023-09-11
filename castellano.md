@@ -139,23 +139,24 @@
 ## 📚 Conocimientos
 
 - VMware
-- Docker
-- Kubernetes
+- Docker & Docker Swarm
+- Kubernetes / Openshift
 - Ansible
 - Veeam
 - Networking
 - Azure
 - AWS
 - ELK Stack
-- Bash Scripting
-- Python Scripting
-- Go Scripting
+- Scripting (Bash, Python, Go)
 - Office 365
 - Hyper-V
-- Active Directory
-- VPN Configuration
-- VoIP Configuration
-- Storage Administration
+- Active Directory / Azure AD
+- Storage
+- Terraform
+- Git
+- Linux (Ubuntu, RedHat, CentOS, Debian … etc)
+- Windows (Desktop & Server)
+- Herramientas de monitorización (Zabbix, Grafana, Telegraf, Munin, Observium … etc)
 
 ---
 
