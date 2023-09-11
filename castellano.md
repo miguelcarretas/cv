@@ -1,42 +1,64 @@
-# 👨‍💻 Miguel Carretas Perulero
-*Administrador de Sistemas y DevOps*
+# 👨🏻‍💻Miguel Carretas Perulero
 
-## ℹ Acerca de mí
-Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre estoy buscando aprender algo nuevo. Me encanta escribir y soy el fundador de "El Blog del Administrador". Desde que ingresé al mundo de la informática, supe que era mi vocación. Disfruto cada día de lo que hago.
+🤖 *Administrador de Sistemas / DevOps*
+
+✉️ carretasperuleromiguel@gmail.com
+
+📞 +34 635 60 36 39
+
+🌐 elblogdeladministrador.com
+
+---
+
+## ℹ️ Acerca de mí
+
+*Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre estoy buscando aprender algo nuevo. Me encanta escribir y soy el fundador de "El Blog del Administrador". Desde que ingresé al mundo de la informática, supe que era mi vocación. Disfruto cada día de lo que hago.*
+
+---
 
 ## 💼 Experiencia
-### Administrador de Sistemas / DevOps
+
+### 🔧 Administrador de Sistemas / DevOps
+
 **Boycor** - Marzo 2023 - Actualidad *(7 meses)*
-- Trabajo remoto
-- Administracion de entorno VMware.
+
+📍 Trabajo remoto
+
+- Administración de entorno VMware.
 - Administración de backups con Veeam y Azure.
 - Automatización de tareas con Ansible.
 - Monitorización de infraestructura con Zabbix + Grafana.
-- Creacion de apps en Azure (SSO basado en SAML y Oauth).
-- Creacion de grupos y usuarios en Azure AD.
+- Creación de apps en Azure (SSO basado en SAML y OAuth).
+- Creación de grupos y usuarios en Azure AD.
 - Control de versiones con Git y GitLab.
-- Securizacion de servidores Linux y Windows.
-- Administracion de infraestructura como codigo con Terraform.
+- Securización de servidores Linux y Windows.
+- Administración de infraestructura como código con Terraform.
 
-### Administrador de Sistemas / DevOps
+### 🔧 Administrador de Sistemas / DevOps
+
 **Tirant lo Blanch** - Julio 2022 - Febrero 2023 *(8 meses)*
-- Trabajo remoto
-- Administración de entorno VMWare.
-- Automatizacion de configuraciones con Ansible, Jenkis y Terraform.
-- Instalación, configuración y monitorización de infraestructura de la empresa (Zabbix, Munin, Grafana, Telegraf).
-- Gestion de servidores de correo, servidores web y balanceos de carga y alta disponibilidad (HAProxy y Keepalive)
-- Soporte de incidencias a empleados internos de la empresa.
-- Gestion de base de datos MySQL, MariaDB y MongoDB.
-- Gestion de backups con Veeam, en local y buckets S3 de AWS.
-- Administración de cluster Openshift de AWS y local.
-- Administracion de redes y seguridad de la infraestructura.
-- Administracion de Cloudflare mediante Terraform.
-- Control de versiones con Git.
-- Administracion de sistemas operativos CentOS / RHEL y Windows Server.
 
-### Ingeniero de Sistemas IT
+📍 Trabajo remoto
+
+- Administración de entorno VMWare.
+- Automatización de configuraciones con Ansible, Jenkis y Terraform.
+- Instalación, configuración y monitorización de infraestructura de la empresa (Zabbix, Munin, Grafana, Telegraf).
+- Gestión de servidores de correo, servidores web y balanceos de carga y alta disponibilidad (HAProxy y Keepalive)
+- Soporte de incidencias a empleados internos de la empresa.
+- Gestión de base de datos MySQL, MariaDB y MongoDB.
+- Gestión de backups con Veeam, en local y buckets S3 de AWS.
+- Administración de clúster Openshift de AWS y local.
+- Administración de redes y seguridad de la infraestructura.
+- Administración de Cloudflare mediante Terraform.
+- Control de versiones con Git.
+- Administración de sistemas operativos CentOS / RHEL y Windows Server.
+
+### 🔧 Ingeniero de Sistemas IT
+
 **GMV** - Enero 2019 - Julio 2022 *(3 años 7 meses)*
-- Tres Cantos, Comunidad de Madrid, España
+
+📍 Tres Cantos, Comunidad de Madrid, España
+
 - Instalación, configuración y securización de Zabbix.
 - Instalación, configuración y despliegue de software mediante Ansible.
 - Instalación y configuración de Veeam Availability Suite.
@@ -55,9 +77,12 @@ Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre
 - Conocimientos en AWS.
 - Shell scripting y Python scripting.
 
-### Administrador de Sistemas
+### 🔧 Administrador de Sistemas
+
 **Abalia** - Febrero 2018 - Febrero 2019 *(1 año 1 mes)*
-- Madrid, España
+
+📍 Madrid, España
+
 - Administración y configuración de entornos bajo tecnología VMware.
 - Instalación y configuración de entornos Veeam Backup & Replication.
 - Bash & PowerShell scripting.
@@ -76,9 +101,12 @@ Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre
 - Administración de centralita de telefonía Asterisk.
 - Administración de cabinas de almacenamiento.
 
-### Administrador de Sistemas Junior
+### 🔧 Administrador de Sistemas Junior
+
 **IT ENCORE GROUP** - Marzo 2017 - Febrero 2018 *(1 año)*
-- Madrid, España
+
+📍 Madrid, España
+
 - Administración de entorno VMware.
 - Soporte técnico de hosting y servidores privados virtuales.
 - Administración y configuración de PfSense en cluster.
@@ -92,16 +120,24 @@ Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre
 - Configuración de telefonía empresarial VoIP.
 - Desarrollo de aplicaciones web.
 
+---
+
 ## 🎓 Educación
+
 **Técnico Superior en Administración/Administración de Redes y Sistemas**
-- IES Valle del Jerte (Plasencia) - 2014-2016
-- Titulación: 8.69
+
+- 👨🏻‍🎓 IES Valle del Jerte (Plasencia) - 2014-2016
+- 🎯 Titulación: 8.69
 
 **Técnico en Sistemas Microinformáticos y Redes, Informática**
-- IES San Pedro de Alcántara - 2012-2014
-- Titulación: 9.7
+
+- 👨🏻‍🎓 IES San Pedro de Alcántara - 2012-2014
+- 🎯 Titulación: 9.7
+
+---
 
 ## 📚 Conocimientos
+
 - VMware
 - Docker
 - Kubernetes
@@ -121,13 +157,16 @@ Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre
 - VoIP Configuration
 - Storage Administration
 
+---
+
 ## 📜 Licencias y Certificaciones
-- VMware Certified Professional - Data Center Virtualization 2021 (VMware) - Expedición: jun. 2021
-- Curso completo VMware vSphere 6.7 de principiante a avanzado (Udemy) - Expedición: mar. 2021
-- Guía completa de ELK Stack: Elasticsearch, Logstash, Kibana (Udemy) - Expedición: dic. 2020
-- VMware vSphere 6.7 Foundations (VMware) - Expedición: jun. 2020 - [Ver credencial](https://www.youracclaim.com/badges/81006068-4fe1-43f8-89fb-4262afb85414/linked_i)
-- Docker, de principiante a experto (Udemy) - Expedición: abr. 2020
-- Veeam Certified Sales Professional (Veeam Software) - Expedición mar. 2020 · Vencimiento: mar. 2021
-- Veeam Certified Technical Sales Professional (Veeam Software) - Expedición mar. 2020 · Vencimiento: mar. 2021
-- Certificado de Superación: «Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S.»
+
+- 🏁 VMware Certified Professional - Data Center Virtualization 2021 (VMware) - Expedición: jun. 2021
+- 🏁 Curso completo VMware vSphere 6.7 de principiante a avanzado (Udemy) - Expedición: mar. 2021
+- 🏁 Guía completa de ELK Stack: Elasticsearch, Logstash, Kibana (Udemy) - Expedición: dic. 2020
+- 🏁 VMware vSphere 6.7 Foundations (VMware) - Expedición: jun. 2020 - [Ver credencial](https://www.youracclaim.com/badges/81006068-4fe1-43f8-89fb-4262afb85414/linked_i)
+- 🏁 Docker, de principiante a experto (Udemy) - Expedición: abr. 2020
+- 🏁 Veeam Certified Sales Professional (Veeam Software) - Expedición mar. 2020 · Vencimiento: mar. 2021
+- 🏁 Veeam Certified Technical Sales Professional (Veeam Software) - Expedición mar. 2020 · Vencimiento: mar. 2021
+- 🏁 Certificado de Superación: «Desarrollo de Aplicaciones en HTML5 y para Dispositivos Móviles Firefox O.S.»
 
