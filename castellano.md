@@ -1,6 +1,6 @@
 # 👨🏻‍💻Miguel Carretas Perulero
 
-🤖 *Administrador de Sistemas / DevOps*
+🤖 * Senior System Administrator / Administrador de Sistemas Senior
 
 ✉️ carretasperuleromiguel@gmail.com
 
@@ -18,7 +18,7 @@
 
 ## 💼 Experiencia
 
-### 🔧 Administrador de Sistemas / DevOps
+### 🔧 Senior System Administrator / Administrador de Sistemas Senior
 
 **Boycor** - Marzo 2023 - Actualidad *(7 meses)*
 
@@ -34,7 +34,7 @@
 - Securización de servidores Linux y Windows.
 - Administración de infraestructura como código con Terraform.
 
-### 🔧 Administrador de Sistemas / DevOps
+### 🔧 Senior System Administrator / Administrador de Sistemas Senior
 
 **Tirant lo Blanch** - Julio 2022 - Febrero 2023 *(8 meses)*
 
@@ -53,7 +53,7 @@
 - Control de versiones con Git.
 - Administración de sistemas operativos CentOS / RHEL y Windows Server.
 
-### 🔧 Ingeniero de Sistemas IT
+### 🔧 System Administrator / Administrador de Sistemas
 
 **GMV** - Enero 2019 - Julio 2022 *(3 años 7 meses)*
 
@@ -77,7 +77,7 @@
 - Conocimientos en AWS.
 - Shell scripting y Python scripting.
 
-### 🔧 Administrador de Sistemas
+### 🔧 System Administrator / Administrador de Sistemas
 
 **Abalia** - Febrero 2018 - Febrero 2019 *(1 año 1 mes)*
 
@@ -101,7 +101,7 @@
 - Administración de centralita de telefonía Asterisk.
 - Administración de cabinas de almacenamiento.
 
-### 🔧 Administrador de Sistemas Junior
+### 🔧 System Administrator / Administrador de Sistemas
 
 **IT ENCORE GROUP** - Marzo 2017 - Febrero 2018 *(1 año)*
 
