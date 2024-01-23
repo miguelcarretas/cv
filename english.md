@@ -100,7 +100,7 @@
 - Asterisk phone system administration.
 - Storage cabinet administration.
 
-### 🔧 Junior System Administrator
+### 🔧 System Administrator
 
 **IT ENCORE GROUP** - March 2017 - February 2018 *(1 year)*
 
