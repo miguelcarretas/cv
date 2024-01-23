@@ -1,6 +1,6 @@
 # 👨🏻‍💻Miguel Carretas Perulero
 
-🤖 *Systems Administrator / DevOps*
+🤖 *Senior System Administrator*
 
 ✉️ carretasperuleromiguel@gmail.com
 
@@ -18,7 +18,7 @@
 
 ## 💼 Experience
 
-### 🔧 Systems Administrator / DevOps
+### 🔧 Senior System Administrator
 
 **Boycor** - March 2023 - Present *(7 months)*
 
@@ -34,7 +34,7 @@
 - Securing Linux and Windows servers.
 - Infrastructure as code administration with Terraform.
 
-### 🔧 Systems Administrator / DevOps
+### 🔧 Senior System Administrator
 
 **Tirant lo Blanch** - July 2022 - February 2023 *(8 months)*
 
@@ -53,7 +53,7 @@
 - Version control with Git.
 - Administration of CentOS / RHEL and Windows Server operating systems.
 
-### 🔧 IT Systems Engineer
+### 🔧 System Administrator
 
 **GMV** - January 2019 - July 2022 *(3 years 7 months)*
 
@@ -76,7 +76,7 @@
 - Knowledge of AWS.
 - Shell scripting and Python scripting.
 
-### 🔧 Systems Administrator
+### 🔧 System Administrator
 
 **Abalia** - February 2018 - February 2019 *(1 year 1 month)*
 
@@ -100,7 +100,7 @@
 - Asterisk phone system administration.
 - Storage cabinet administration.
 
-### 🔧 Junior Systems Administrator
+### 🔧 Junior System Administrator
 
 **IT ENCORE GROUP** - March 2017 - February 2018 *(1 year)*
 
