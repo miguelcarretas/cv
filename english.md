@@ -33,6 +33,9 @@
 - Version control with Git and GitLab.
 - Securing Linux and Windows servers.
 - Infrastructure as code administration with Terraform.
+- Automation with Ansible Tower (Oracle Automation Manager / AWX).
+- Participation in migration of on-premise environment to AWS.
+- Infrastructure management as code with Terraform (Azure VM, VMware).
 
 ### 🔧 Senior System Administrator
 
@@ -52,6 +55,7 @@
 - Cloudflare administration with Terraform.
 - Version control with Git.
 - Administration of CentOS / RHEL and Windows Server operating systems.
+- Help to DevOps in Openshift cluster management (Kubernetes).
 
 ### 🔧 System Administrator
 
