@@ -2,7 +2,7 @@ Este proyecto contiene mi curriculum vitae, tanto en español (castellano), cóm
 Ofrezco servicios de consultoría informática, trabajando por cuenta propia. 
 
 - Email: carretasperuleromiguel@gmail.com
-- Web: https://elblogdeladministrador.com
+- Web: https://miguelcarretas.com
 - Linkedin: https://www.linkedin.com/in/miguel-carretas-perulero-b27240a8/
 - CV: https://github.com/miguelcarretas/cv/blob/main/castellano.md
 - Perfil en Upwork: https://www.upwork.com/freelancers/~0114506c27acb12209
@@ -15,7 +15,7 @@ This project contains my curriculum vitae, both in Spanish (Castilian) and Engli
 I offer IT consulting services, working on a freelance basis. 
 
 - Email: carretasperuleromiguel@gmail.com
-- Web: https://elblogdeladministrador.com
+- Web: https://miguelcarretas.com
 - Linkedin: https://www.linkedin.com/in/miguel-carretas-perulero-b27240a8/
 - CV: https://github.com/miguelcarretas/cv/blob/main/english.md
 - Upwork profile: https://www.upwork.com/freelancers/~0114506c27acb12209
