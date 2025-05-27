@@ -1,4 +1,4 @@
-# 👨🏻‍💻Miguel Carretas Perulero
+## 👨🏻‍💻Miguel Carretas Perulero
 
 🤖 **Administrador de Sistemas**
 
@@ -10,7 +10,7 @@
 
 ## ℹ️ Acerca de mí
 
-*Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre estoy buscando aprender algo nuevo. Me encanta escribir y soy el fundador de "El Blog del Administrador". Desde que ingresé al mundo de la informática, supe que era mi vocación. Disfruto cada día de lo que hago.*
+*Soy una persona apasionada por la tecnología y los desafíos laborales. Siempre estoy buscando aprender algo nuevo. Me encanta escribir y soy el fundador del blog "miguelcarretas.com". Desde que ingresé al mundo de la informática, supe que era mi vocación. Disfruto cada día de lo que hago.*
 
 ---
 
