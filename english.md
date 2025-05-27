@@ -1,8 +1,12 @@
-## 🤖 Systems Administrator
+## 👨🏻‍💻Miguel Carretas Perulero
+
+🤖 **Systems Administrator**
 
 ✉️ **carretasperuleromiguel@gmail.com**
 
 🌐 **miguelcarretas.com**
+
+---
 
 ## ℹ️ About Me
 I am passionate about technology and professional challenges. I’m always looking to learn something new. I love writing and I’m the founder of "El Blog del Administrador". From the moment I entered the IT world, I knew it was my calling. I enjoy every day of what I do.
