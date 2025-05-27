@@ -1,11 +1,13 @@
 ## 🤖 Systems Administrator
 
-## ✉️ carretasperuleromiguel@gmail.com
+✉️ **carretasperuleromiguel@gmail.com**
 
-## 🌐 miguelcarretas.com
+🌐 **miguelcarretas.com**
 
 ## ℹ️ About Me
 I am passionate about technology and professional challenges. I’m always looking to learn something new. I love writing and I’m the founder of "El Blog del Administrador". From the moment I entered the IT world, I knew it was my calling. I enjoy every day of what I do.
+
+---
 
 ## 💼 Experience
 
@@ -218,12 +220,12 @@ Key responsibilities:
 - Oracle WebLogic 12c
 
 ## 📜 Licenses and Certifications
-🏁 VMware Certified Professional – Data Center Virtualization 2021 (VMware) – Issued: June 2021
-🏁 Complete VMware vSphere 6.7 Course: Beginner to Advanced (Udemy) – Issued: March 2021
-🏁 Complete Guide to ELK Stack: Elasticsearch, Logstash, Kibana (Udemy) – Issued: December 2020
-🏁 VMware vSphere 6.7 Foundations (VMware) – Issued: June 2020 – View credential
-🏁 Docker: From Beginner to Expert (Udemy) – Issued: April 2020
-🏁 Veeam Certified Sales Professional (Veeam Software) – Issued: March 2020 · Expired: March 2021
-🏁 Veeam Certified Technical Sales Professional (Veeam Software) – Issued: March 2020 · Expired: March 2021
-🏁 Certificate of Completion: “HTML5 Application Development and Mobile App Development for Firefox OS”
+- 🏁 VMware Certified Professional – Data Center Virtualization 2021 (VMware) – Issued: June 2021
+- 🏁 Complete VMware vSphere 6.7 Course: Beginner to Advanced (Udemy) – Issued: March 2021
+- 🏁 Complete Guide to ELK Stack: Elasticsearch, Logstash, Kibana (Udemy) – Issued: December 2020
+- 🏁 VMware vSphere 6.7 Foundations (VMware) – Issued: June 2020 – View credential
+- 🏁 Docker: From Beginner to Expert (Udemy) – Issued: April 2020
+- 🏁 Veeam Certified Sales Professional (Veeam Software) – Issued: March 2020 · Expired: March 2021
+- 🏁 Veeam Certified Technical Sales Professional (Veeam Software) – Issued: March 2020 · Expired: March 2021
+- 🏁 Certificate of Completion: “HTML5 Application Development and Mobile App Development for Firefox OS”
 
