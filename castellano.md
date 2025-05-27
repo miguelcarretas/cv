@@ -1,10 +1,10 @@
 # 👨🏻‍💻Miguel Carretas Perulero
 
-🤖 * Administrador de Sistemas
+🤖 **Administrador de Sistemas**
 
-✉️ carretasperuleromiguel@gmail.com
+✉️ **carretasperuleromiguel@gmail.com**
 
-🌐 miguelcarretas.com
+🌐 **miguelcarretas.com**
 
 ---
 
