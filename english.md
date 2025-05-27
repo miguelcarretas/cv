@@ -9,7 +9,7 @@
 ---
 
 ## ℹ️ About Me
-I am passionate about technology and professional challenges. I’m always looking to learn something new. I love writing and I’m the founder of "El Blog del Administrador". From the moment I entered the IT world, I knew it was my calling. I enjoy every day of what I do.
+I am passionate about technology and professional challenges. I’m always looking to learn something new. I love writing and I’m the founder of "miguelcarretas.com" blog. From the moment I entered the IT world, I knew it was my calling. I enjoy every day of what I do.
 
 ---
 
